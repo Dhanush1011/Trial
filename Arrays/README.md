@@ -1,0 +1,1 @@
+The following programs are solutions to the chapter related to arrays of the book "Let us C"
