@@ -1,3 +1,1 @@
-Hello !!!
-
-This is my first git trial session.
+The following programs are solutions to the first chapter of the book "Let us C"
